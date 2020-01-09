@@ -1,0 +1,55 @@
+body {
+    height: 100%;
+    background:url(fond_type_2.svg) fixed;
+    background-size: 100%;
+    overflow-x: hidden;
+}
+
+.en-tete1 {
+    width: 70%;
+    height: auto;
+    display: flex;
+    margin-left: auto;
+    margin-top: 60px;
+    margin-right: auto;
+}
+
+.contenu {
+    background-color:rgba(0, 0, 0, 0.6);
+    width: 70%;
+    margin: auto;
+    font-family: 'Quicksand';
+    text-align: center;
+    color: white;
+    bottom: 5%;
+}
+
+.animation {
+    margin-top: 5%;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.gif {
+    display: flex;
+    position: center;
+}
+
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+textarea {
+    margin-bottom: 40px;
+}
+
+address {
+    text-align: center;
+}

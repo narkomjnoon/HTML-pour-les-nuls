@@ -1,0 +1,11 @@
+body {
+    height: 100%;
+    width: 100%;
+    color:black;
+    background:url(fonc_acc.png) fixed no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-color: black;
+    margin-top: 10%;
+    font-family: 'Quicksand';
+}
